@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2500&pause=1000&color=8A2BE2&width=435&lines=Oii!++Eu+sou+a+Sara+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
+<h1><a href="https://www.linkedin.com/in/souza-sara"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2500&pause=1000&color=8A2BE2&width=435&lines=Oii!++Eu+sou+a+Sara+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
