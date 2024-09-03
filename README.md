@@ -30,9 +30,18 @@
   <img src="https://img.shields.io/badge/-Telegram-8A2BE2?style=flat&labelColor=8A2BE2&logo=Telegram&logoColor=white&link=https://t.me/sarallorrayne" alt="Telegram"/></a>
 </p>
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarallorrayne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarallorrayne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarallorrayne&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarallorrayne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<div align="center">
+  <br clear="both">
+
+  <img src="https://raw.githubusercontent.com/sarallorrayne/sarallorrayne/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ###
