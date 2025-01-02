@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  ⚡ Linguagens: <strong>HTML, CSS, JavaScript, Node.JS.</strong>
+  ⚡ Linguagens: <strong>HTML, CSS, JavaScript, React.JS Node.JS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Git e GitHub, Insomnia.</strong>
 </p>
 
 <p align="left">
