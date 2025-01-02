@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  ⚡ Linguagens: <strong>HTML, CSS, JavaScript, React.JS Node.JS.</strong>
+  ⚡ Linguagens: <strong>HTML, CSS, JavaScript, React.JS, Node.JS.</strong>
 </p>
 
 <p align="left">
