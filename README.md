@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Git e GitHub, Insomnia.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Git e GitHub.</strong>
 </p>
 
 <p align="left">
